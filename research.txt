@@ -1,0 +1,2 @@
+1- Criar o diretório da imagem no dockerhub e linkar-lo com o github (Fazer pelo site do dockerhub);
+
